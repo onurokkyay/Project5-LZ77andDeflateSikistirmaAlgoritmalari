@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589302442 source:c:\users\onurokyay\desktop\gecici\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1589563533 source:c:\users\sabsay\desktop\lz77\gecici\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<Stdint.h>
+
